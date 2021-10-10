@@ -1,0 +1,15 @@
+<!--
+This file is located in the res/values folder and it contains all the text that your application uses.
+For example, the names of buttons, labels, default text, and similar types of strings go into
+this file. This file is responsible for their textual content.
+
+By adding additional strings in this file, we can access it in multiple xml files in this project.
+for example, I used some of this strings in the activity_main.xml file.
+-->
+
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user">Username</string> <!-- Added by me -->
+    <string name="pass">Password</string> <!-- Added by me -->
+    <string name="btn">Submit</string> <!-- Added by me -->
+</resources>
