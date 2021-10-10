@@ -7,6 +7,8 @@ file very frequently to change the layout of your application.
 
 I used some strings I added in the strings.xml file that is located in the res/values directory.
 I used a color value that I added in the colors.xml file that is located in the res/values directory.
+
+I added this project to github
 -->
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
